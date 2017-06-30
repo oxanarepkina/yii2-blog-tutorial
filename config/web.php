@@ -52,7 +52,7 @@ $config = [
         'admin' => [
             'class' => 'app\modules\admin\Module',
         ],
-    ],git init
+    ],
 ];
 
 if (YII_ENV_DEV) {
